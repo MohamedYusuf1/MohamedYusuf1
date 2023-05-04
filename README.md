@@ -3,8 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/MohamedYusuf1/Sentinel-.git)
-  - [JWipe (Disk Wiping Utility)](https://github.com/MohamedYusuf1/Active-Directory-Project.git)
-  livery-Pathfinding-Algorithm)
   
   Loading....
 
